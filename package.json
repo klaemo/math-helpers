@@ -1,7 +1,7 @@
 {
   "name": "math-helpers",
   "version": "0.1.0",
-  "description": "Tiny statistics helper lib. Robust and fast.",
+  "description": "Tiny statistics helper lib for node and the browser. Robust and fast.",
   "main": "math-helpers.js",
   "keywords": [
     "math",
