@@ -1,0 +1,26 @@
+{
+  "name": "math-helpers",
+  "version": "0.1.0",
+  "description": "Tiny statistics helper lib. Robust and fast.",
+  "main": "math-helpers.js",
+  "keywords": [
+    "math",
+    "statistics",
+    "average",
+    "standard deviation",
+    "linear regression"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "devDependencies": {
+    "mocha": "1.12.x"
+  },
+  "repository": "git@github.com:klaemo/math-helpers.git",
+  "author": "Clemens Stolle",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
